@@ -1,4 +1,4 @@
-                                               Uber Analysis Project Documentation
+                                              Uber Analysis Project Documentation
 
 Project Overview:
   This project analyzes Uber ride data to gain insights into ride patterns, trip distances, and fare amounts. The dataset includes information about ride durations, locations, and purposes.
